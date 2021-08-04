@@ -1,0 +1,27 @@
+{
+  "Name": "Prismatic Crusher",
+  "Description": "Crush your Prismatic Shards into nuggets!",
+  "Price": 1,
+  "ProvidesLight": false,
+  "ReserveExtraIndexCount": 7,
+  "CanPurchase": false,
+  "Recipe": {
+        "ResultCount": 1,
+        "Ingredients": [
+            {
+                "Object": 337,
+                "Count": 2
+            },
+            {
+                "Object": 335,
+                "Count": 10
+            }
+        ],
+        "CanPurchase": false,
+        "IsDefault": true
+    },
+   "NameLocalization":{ //名称定位
+   "zh":"五彩碎片粉碎机"},
+   "DescriptionLocalization":{ //描述定位
+   "zh":"将五彩碎片粉碎为五彩颗粒。"},
+}
